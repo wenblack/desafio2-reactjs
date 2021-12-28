@@ -1,5 +1,7 @@
 # 02 Desafio Ignite(Trilha React JS) 
 Segundo Desafio prático do Curso Ignite  de React JS
+# Objetivo
+Componentizar as interfaces (Conteúdo e Barra lateral)
 ## Available Scripts
 
 In the project directory, you can run:
